@@ -23,17 +23,13 @@
 
 ![4](https://github.com/farhanz17/UTS_P.MOBILE2/assets/92637117/05d7600d-20a2-46a3-b0ce-3544fdb7ef6f)
 
-<p>Menu mengubah data pribadi tampilan pc dan mobile</P>
+<p>Menu mengubah data pribadi </P>
 
-![Gambar 5](screenshoot/5.JPG)
-
-![Gambar 6](screenshoot/6.JPG)
+![2](https://github.com/farhanz17/UTS_P.MOBILE2/assets/92637117/14bf9fdb-7dc6-4c28-9f1b-6eec9d21c7ef)
 
 <p>Menu tampilan pc</P>
 
-![Gambar 7](screenshoot/7.JPG)
-
-
+![5](https://github.com/farhanz17/UTS_P.MOBILE2/assets/92637117/352c55f2-0a5f-4748-aceb-b98e15186806)
 
 <p>
 Catatan yang di atas merupakan gambaran satu aplikasi mulai dari menu login sampai menu merubah data yang di buat menggunakan kode dart dan fremwork flutter
