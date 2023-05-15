@@ -29,10 +29,12 @@
 
 <p>Menu tampilan pc</P>
 
-![5](https://github.com/farhanz17/UTS_P.MOBILE2/assets/92637117/352c55f2-0a5f-4748-aceb-b98e15186806)
+# Terimakasih
 
 <p>
 Catatan yang di atas merupakan gambaran satu aplikasi mulai dari menu login sampai menu merubah data yang di buat menggunakan kode dart dan fremwork flutter
+  
+ 
 </p>
 
 
