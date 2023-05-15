@@ -29,6 +29,9 @@
 
 <p>Menu tampilan pc</P>
 
+![5](https://github.com/farhanz17/UTS_P.MOBILE2/assets/92637117/d668b284-29d3-4251-8d25-1fbd47f491ce)
+
+
 # Terimakasih
 
 
