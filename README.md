@@ -19,7 +19,7 @@
 
 <p>Menu data pribadi tampilan pc dan mobile</P>
 
-![2](https://github.com/farhanz17/UTS_P.MOBILE2/assets/92637117/9efd18c8-6636-47d4-b560-ada3afa4ef16)
+![6](https://github.com/farhanz17/UTS_P.MOBILE2/assets/92637117/c42dec5e-09f9-462a-96f6-a6ed70c57999)
 
 ![4](https://github.com/farhanz17/UTS_P.MOBILE2/assets/92637117/05d7600d-20a2-46a3-b0ce-3544fdb7ef6f)
 
